@@ -18,13 +18,11 @@ public class ReadXMLTwo extends XMLUtils
             Document w3cDoc = getW3CDocument("staff.xml");
             Element element = w3cDoc.getDocumentElement();
 
-
             println("Root Element : "+element.getNodeName());
 
             element.normalize();
-            //if(w3cDoc.hasChildNodes())printNodes(w3cDoc.getChildNodes());
-            if(w3cDoc.hasChildNodes()) printNodes(element.getChildNodes());
 
+            if(w3cDoc.hasChildNodes()) printNodes(element.getChildNodes());
         }
         catch(Exception e)
         {
