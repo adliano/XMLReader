@@ -1,0 +1,111 @@
+Script started on Sun Nov  5 21:14:43 2017
+[?1034h[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mdata[Ke
+Sun Nov  5 21:14:48 PST 2017
+[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mwhoami
+adliano
+[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mls
+ReadUnknownXMLStructure.java    XMLUtils.java                   staff_three.xml
+ReadXMLOne.java                 cs142_hw4.txt
+ReadXMLTwo.java                 staff.xml
+[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mjavac *.java
+[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mls
+ReadUnknownXMLStructure.class   ReadXMLTwo.class                cs142_hw4.txt
+ReadUnknownXMLStructure.java    ReadXMLTwo.java                 staff.xml
+ReadXMLOne.class                XMLUtils.class                  staff_three.xml
+ReadXMLOne.java                 XMLUtils.java
+[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mjava ReadXMLOne
+Root Element : company
+Current Element : staff
+--------------------------------------
+Staff id = 101
+First Name : John
+Last Name : Smith
+Nick Name : JS
+Salary : 100000
+Current Element : staff
+--------------------------------------
+Staff id = 102
+First Name : Fred
+Last Name : Chavez
+Nick Name : Frd
+Salary : 120000
+Current Element : staff
+--------------------------------------
+Staff id = 103
+First Name : Leonard
+Last Name : Vince
+Nick Name : Leo
+Salary : 50000
+[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37m
+[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mjava ReadXMLTwo
+Root Element : company
+Element : staff
+Attributes : id=101     test=something  
+Element : first_name    Value : John
+Element : last_name     Value : Smith
+Element : nick_name     Value : JS
+Element : salary        Value : 100000
+Element : staff
+Attributes : id=102     
+Element : first_name    Value : Fred
+Element : last_name     Value : Chavez
+Element : nick_name     Value : Frd
+Element : salary        Value : 120000
+Element : staff
+Attributes : id=103     
+Element : first_name    Value : Leonard
+Element : last_name     Value : Vince
+Element : nick_name     Value : Leo
+Element : salary        Value : 50000
+[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37m
+[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mjava ReadUnkownXMLStructure
+Error: Could not find or load main class ReadUnkownXMLStructure
+[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mjava ReadUnknownXMLStructure
+staff
+
+first_name
+John
+
+last_name
+Smith
+
+nick_name
+JS
+
+salary
+100000
+
+staff
+id=102
+
+first_name
+Frederico
+
+last_name
+Chavez
+
+nick_name
+Fred
+
+salary
+120000
+
+staff
+id=103
+
+first_name
+Leonard
+
+last_name
+Vince
+
+nick_name
+Leo
+
+salary
+50000
+
+[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mexit
+exit
+
+Script done on Sun Nov  5 21:16:58 2017
