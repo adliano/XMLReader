@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<company>
+    <staff id="101" test="something">
+        <first_name>John</first_name>
+        <last_name>Smith</last_name>
+        <nick_name>JS</nick_name>
+        <salary>100000</salary>
+    </staff>
+    <staff id="102">
+        <first_name>Fred</first_name>
+        <last_name>Chavez</last_name>
+        <nick_name>Frd</nick_name>
+        <salary>120000</salary>
+    </staff>
+    <staff id="103">
+        <first_name>Leonard</first_name>
+        <last_name>Vince</last_name>
+        <nick_name>Leo</nick_name>
+        <salary>50000</salary>
+    </staff>
+</company>
