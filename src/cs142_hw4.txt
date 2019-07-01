@@ -36,7 +36,6 @@ First Name : Leonard
 Last Name : Vince
 Nick Name : Leo
 Salary : 50000
-[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37m
 [31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mjava ReadXMLTwo
 Root Element : company
 Element : staff
@@ -57,7 +56,6 @@ Element : first_name    Value : Leonard
 Element : last_name     Value : Vince
 Element : nick_name     Value : Leo
 Element : salary        Value : 50000
-[31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37m
 [31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mjava ReadUnkownXMLStructure
 Error: Could not find or load main class ReadUnkownXMLStructure
 [31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mjava ReadUnknownXMLStructure
@@ -107,5 +105,4 @@ salary
 
 [31malves.tech[36m/Users/adliano/IdeaProjects/CS142HW4/src/[32m> [37mexit
 exit
-
 Script done on Sun Nov  5 21:16:58 2017
